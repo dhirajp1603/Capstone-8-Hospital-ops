@@ -1,1 +1,2 @@
-
+# Genie spaces are not supported in Git folders
+*.geniespace.json
